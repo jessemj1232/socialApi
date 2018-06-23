@@ -1,0 +1,14 @@
+C:\Users\Noah\Documents\Visual Studio 2017\Projects\socialApi\socialApi\obj\Debug\netcoreapp2.1\socialApi.csprojAssemblyReference.cache
+C:\Users\Noah\Documents\Visual Studio 2017\Projects\socialApi\socialApi\obj\Debug\netcoreapp2.1\socialApi.csproj.CoreCompileInputs.cache
+C:\Users\Noah\Documents\Visual Studio 2017\Projects\socialApi\socialApi\obj\Debug\netcoreapp2.1\socialApi.RazorAssemblyInfo.cache
+C:\Users\Noah\Documents\Visual Studio 2017\Projects\socialApi\socialApi\obj\Debug\netcoreapp2.1\socialApi.RazorAssemblyInfo.cs
+C:\Users\Noah\Documents\Visual Studio 2017\Projects\socialApi\socialApi\obj\Debug\netcoreapp2.1\socialApi.AssemblyInfoInputs.cache
+C:\Users\Noah\Documents\Visual Studio 2017\Projects\socialApi\socialApi\obj\Debug\netcoreapp2.1\socialApi.AssemblyInfo.cs
+C:\Users\Noah\Documents\Visual Studio 2017\Projects\socialApi\socialApi\bin\Debug\netcoreapp2.1\socialApi.deps.json
+C:\Users\Noah\Documents\Visual Studio 2017\Projects\socialApi\socialApi\bin\Debug\netcoreapp2.1\socialApi.runtimeconfig.json
+C:\Users\Noah\Documents\Visual Studio 2017\Projects\socialApi\socialApi\bin\Debug\netcoreapp2.1\socialApi.runtimeconfig.dev.json
+C:\Users\Noah\Documents\Visual Studio 2017\Projects\socialApi\socialApi\bin\Debug\netcoreapp2.1\socialApi.dll
+C:\Users\Noah\Documents\Visual Studio 2017\Projects\socialApi\socialApi\bin\Debug\netcoreapp2.1\socialApi.pdb
+C:\Users\Noah\Documents\Visual Studio 2017\Projects\socialApi\socialApi\obj\Debug\netcoreapp2.1\socialApi.RazorTargetAssemblyInfo.cache
+C:\Users\Noah\Documents\Visual Studio 2017\Projects\socialApi\socialApi\obj\Debug\netcoreapp2.1\socialApi.dll
+C:\Users\Noah\Documents\Visual Studio 2017\Projects\socialApi\socialApi\obj\Debug\netcoreapp2.1\socialApi.pdb
