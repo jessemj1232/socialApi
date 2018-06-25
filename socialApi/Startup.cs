@@ -19,8 +19,15 @@ namespace socialApi
     {
         public void ConfigureServices(IServiceCollection services)
         {
+            
             services.AddDbContext<UserContext>(opt =>
                 opt.UseInMemoryDatabase("UsersList"));
+            services.AddMvc()
+                    .SetCompatibilityVersion(CompatibilityVersion.Version_2_1); 
+
+
+            services.AddDbContext<PostContext>(opt =>
+                opt.UseInMemoryDatabase("PostsList"));
             services.AddMvc()
                     .SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
         }

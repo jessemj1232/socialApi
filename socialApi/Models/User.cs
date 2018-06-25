@@ -14,6 +14,6 @@ namespace socialApi.Models
         public string Password { get; set; }
         public char Gender { get; set; }
         public string Occupation { get; set; }
-
+        public bool IsComplete { get; set; }
     }
 }
