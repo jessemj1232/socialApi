@@ -30,6 +30,16 @@ namespace socialApi
                 opt.UseInMemoryDatabase("PostsList"));
             services.AddMvc()
                     .SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
+
+            services.AddDbContext<FollowingContext>(opt =>
+                opt.UseInMemoryDatabase("FollowersList"));
+            services.AddMvc()
+                    .SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
+
+            services.AddDbContext<CommentContext>(opt =>
+                opt.UseInMemoryDatabase("CommentsList"));
+            services.AddMvc()
+                    .SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
         }
 
         public void Configure(IApplicationBuilder app)

@@ -39,7 +39,7 @@ namespace socialApi.Controllers
         {
             _context.Follows.Add(newFollower);
             _context.SaveChanges();
-            return CreatedAtRoute("GetFollowers", new { id= newFollower.FollowingID}, newFollower)
+            return CreatedAtRoute("GetFollowers", new { id = newFollower.FollowingID }, newFollower);
         }
 
 
