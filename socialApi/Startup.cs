@@ -23,8 +23,7 @@ namespace socialApi
             services.AddDbContext<UserContext>(opt =>
                 opt.UseInMemoryDatabase("UsersList"));
             services.AddMvc()
-                    .SetCompatibilityVersion(CompatibilityVersion.Version_2_1); 
-
+                    .SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
 
             services.AddDbContext<PostContext>(opt =>
                 opt.UseInMemoryDatabase("PostsList"));
@@ -36,8 +35,18 @@ namespace socialApi
             services.AddMvc()
                     .SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
 
+            services.AddDbContext<CommentLikeContext>(opt =>
+                opt.UseInMemoryDatabase("CommentLikesList"));
+            services.AddMvc()
+                    .SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
+
             services.AddDbContext<CommentContext>(opt =>
                 opt.UseInMemoryDatabase("CommentsList"));
+            services.AddMvc()
+                    .SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
+
+            services.AddDbContext<PostLikeContext>(opt =>
+                opt.UseInMemoryDatabase("PostLikesList"));
             services.AddMvc()
                     .SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
         }

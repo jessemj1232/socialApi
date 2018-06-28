@@ -7,11 +7,12 @@ namespace socialApi.Models
 {
     public class Comment
     {
-        public int UserID { get; set; }
+        public int ID { get; set; }
+        public int CommentID { get; set; }
         public int PostID { get; set; }
-        public string Title { get; set; }
+        public int UserID { get; set; }
         public string Content { get; set; }
         public bool IsComplete { get; set; }
-        //nneed datecreated and datemodifed
+        
     }
 }
