@@ -1,0 +1,12 @@
+C:\Users\Noah\Documents\Visual Studio 2017\Projects\socialApi\socialApiBusiness\bin\Debug\netcoreapp2.1\socialApiBusiness.deps.json
+C:\Users\Noah\Documents\Visual Studio 2017\Projects\socialApi\socialApiBusiness\bin\Debug\netcoreapp2.1\socialApiBusiness.dll
+C:\Users\Noah\Documents\Visual Studio 2017\Projects\socialApi\socialApiBusiness\bin\Debug\netcoreapp2.1\socialApiBusiness.pdb
+C:\Users\Noah\Documents\Visual Studio 2017\Projects\socialApi\socialApiBusiness\obj\Debug\netcoreapp2.1\socialApiBusiness.csprojAssemblyReference.cache
+C:\Users\Noah\Documents\Visual Studio 2017\Projects\socialApi\socialApiBusiness\obj\Debug\netcoreapp2.1\socialApiBusiness.csproj.CoreCompileInputs.cache
+C:\Users\Noah\Documents\Visual Studio 2017\Projects\socialApi\socialApiBusiness\obj\Debug\netcoreapp2.1\socialApiBusiness.AssemblyInfoInputs.cache
+C:\Users\Noah\Documents\Visual Studio 2017\Projects\socialApi\socialApiBusiness\obj\Debug\netcoreapp2.1\socialApiBusiness.AssemblyInfo.cs
+C:\Users\Noah\Documents\Visual Studio 2017\Projects\socialApi\socialApiBusiness\obj\Debug\netcoreapp2.1\socialApiBusiness.dll
+C:\Users\Noah\Documents\Visual Studio 2017\Projects\socialApi\socialApiBusiness\obj\Debug\netcoreapp2.1\socialApiBusiness.pdb
+C:\Users\Noah\Documents\Visual Studio 2017\Projects\socialApi\socialApiBusiness\bin\Debug\netcoreapp2.1\socialApiData.dll
+C:\Users\Noah\Documents\Visual Studio 2017\Projects\socialApi\socialApiBusiness\bin\Debug\netcoreapp2.1\socialApiData.pdb
+C:\Users\Noah\Documents\Visual Studio 2017\Projects\socialApi\socialApiBusiness\obj\Debug\netcoreapp2.1\socialApiBusiness.csproj.CopyComplete

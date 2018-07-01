@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
 using System.Linq;
+using socialApiBusiness;
 using socialApi.Models;
 
 namespace socialApi.Controllers
@@ -10,20 +11,15 @@ namespace socialApi.Controllers
     [ApiController]
     public class CommentController : ControllerBase
     {
-        private readonly CommentContext _context;
-        public CommentController(CommentContext context)
+       
+        public CommentController()
         {
-            _context = context;
-            if (_context.Comments.Count() == 0)
-            {
-                _context.Comments.Add(new Comment { CommentID = 69420 });
-                _context.SaveChanges();
-            }
+           
         }
         [HttpGet]
         public ActionResult<List<Comment>> GetAll()
         {
-            return _context.Comments.ToList();
+            return CommentManager.GetAll();
         }
         [HttpGet("{id}", Name = "GetComments")]
         public ActionResult<Comment> GetByID(int id)

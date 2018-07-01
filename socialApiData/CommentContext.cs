@@ -7,6 +7,7 @@ namespace socialApi.Models
             : base(options)
         {
         }
+
         public DbSet<Comment> Comments { get; set; }
     }
 }

@@ -1,0 +1,9 @@
+C:\Users\Noah\Documents\Visual Studio 2017\Projects\socialApi\socialApiData\bin\Debug\netcoreapp2.1\socialApiData.deps.json
+C:\Users\Noah\Documents\Visual Studio 2017\Projects\socialApi\socialApiData\bin\Debug\netcoreapp2.1\socialApiData.dll
+C:\Users\Noah\Documents\Visual Studio 2017\Projects\socialApi\socialApiData\obj\Debug\netcoreapp2.1\socialApiData.csprojAssemblyReference.cache
+C:\Users\Noah\Documents\Visual Studio 2017\Projects\socialApi\socialApiData\obj\Debug\netcoreapp2.1\socialApiData.csproj.CoreCompileInputs.cache
+C:\Users\Noah\Documents\Visual Studio 2017\Projects\socialApi\socialApiData\obj\Debug\netcoreapp2.1\socialApiData.AssemblyInfoInputs.cache
+C:\Users\Noah\Documents\Visual Studio 2017\Projects\socialApi\socialApiData\obj\Debug\netcoreapp2.1\socialApiData.AssemblyInfo.cs
+C:\Users\Noah\Documents\Visual Studio 2017\Projects\socialApi\socialApiData\bin\Debug\netcoreapp2.1\socialApiData.pdb
+C:\Users\Noah\Documents\Visual Studio 2017\Projects\socialApi\socialApiData\obj\Debug\netcoreapp2.1\socialApiData.dll
+C:\Users\Noah\Documents\Visual Studio 2017\Projects\socialApi\socialApiData\obj\Debug\netcoreapp2.1\socialApiData.pdb
